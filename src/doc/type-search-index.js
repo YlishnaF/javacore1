@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"ru.fadeeva.custommath","l":"Decorator"},{"p":"ru.fadeeva","l":"Main"},{"p":"ru.fadeeva.custommath","l":"Math"}]
